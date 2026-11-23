@@ -4,6 +4,8 @@
 
 This public repository is the place to request support and propose improvements related to **Hiperfoco**.
 
+Official website: [www.hiperfoco.dev](https://www.hiperfoco.dev/en)
+
 > [!IMPORTANT]
 > Issues are public. Do not post passwords, credentials, medical information, personal data, or any other sensitive content.
 
@@ -27,7 +29,7 @@ The team will review the request, may ask for more information, and will classif
 
 ## Scope
 
-This repository is exclusively for support and improvement requests. It does not contain the Hiperfoco source code.
+This repository is exclusively for support and improvement requests. It does not contain the Hiperfoco source code. To learn about the product, read the user guide, or access installation instructions, visit the [official Hiperfoco website](https://www.hiperfoco.dev/en).
 
 ## Language
 

@@ -4,6 +4,8 @@
 
 Este repositorio público es el canal para solicitar soporte y proponer mejoras relacionadas con **Hiperfoco**.
 
+Sitio oficial: [www.hiperfoco.dev](https://www.hiperfoco.dev)
+
 > [!IMPORTANT]
 > Los Issues son públicos. No publiques contraseñas, credenciales, información médica, datos personales ni ningún otro contenido sensible.
 
@@ -27,7 +29,7 @@ El equipo revisará la solicitud, podrá pedir información adicional y la clasi
 
 ## Alcance
 
-Este repositorio está destinado exclusivamente a soporte y solicitudes de mejora. No contiene el código fuente de Hiperfoco.
+Este repositorio está destinado exclusivamente a soporte y solicitudes de mejora. No contiene el código fuente de Hiperfoco. Para conocer el producto, consultar la guía de uso o acceder a la instalación, visitá el [sitio oficial de Hiperfoco](https://www.hiperfoco.dev).
 
 ## Idioma
 
