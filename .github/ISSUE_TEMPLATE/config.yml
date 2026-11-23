@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Revisar solicitudes existentes / Review existing requests
+    url: https://github.com/fundacion-hiperactiva/hiperfoco-support/issues
+    about: Evitá duplicados antes de crear una solicitud nueva. / Avoid duplicates before creating a new request.

@@ -1,0 +1,53 @@
+name: Solicitud de mejora / Improvement request
+description: Proponé una función nueva o una mejora para Hiperfoco. / Suggest a new feature or improvement for Hiperfoco.
+title: "[Mejora]: "
+labels:
+  - enhancement
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Gracias por ayudarnos a mejorar Hiperfoco. Describí la necesidad y el beneficio esperado, sin incluir información personal o sensible.
+
+        Thank you for helping us improve Hiperfoco. Describe the need and expected benefit without including personal or sensitive information.
+  - type: textarea
+    id: need
+    attributes:
+      label: Necesidad o problema / Need or problem
+      description: ¿Qué necesidad resolvería esta mejora? / What need would this improvement address?
+      placeholder: Actualmente resulta difícil…
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Propuesta / Proposal
+      description: Explicá cómo imaginás la solución. / Explain how you envision the solution.
+    validations:
+      required: true
+  - type: textarea
+    id: benefit
+    attributes:
+      label: Beneficio esperado / Expected benefit
+      description: ¿A quién ayudaría y de qué manera? / Who would it help and how?
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternativas consideradas / Alternatives considered
+      description: Contanos si hoy resolvés esta necesidad de otra manera. / Tell us if you currently address this need another way.
+  - type: textarea
+    id: additional
+    attributes:
+      label: Información adicional / Additional information
+      description: Agregá ejemplos, bocetos o referencias sin datos sensibles. / Add examples, mockups, or references without sensitive data.
+  - type: checkboxes
+    id: confirmation
+    attributes:
+      label: Confirmaciones / Confirmations
+      options:
+        - label: Revisé los Issues existentes y no encontré una propuesta equivalente. / I reviewed existing Issues and found no equivalent proposal.
+          required: true
+        - label: Confirmo que no incluí datos personales, médicos, credenciales ni otra información sensible. / I confirm that I included no personal or medical data, credentials, or other sensitive information.
+          required: true
